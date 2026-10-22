@@ -1,0 +1,12 @@
+﻿# OS / Windows junk
+Thumbs.db
+Desktop.ini
+*.lnk
+*.tmp
+*.log
+
+# Node / Vite artefacts
+node_modules/
+dist/.vite/.cache/.env.env.*
+
+# IDE / editor artefacts.vscode/.idea/*.code-workspace
